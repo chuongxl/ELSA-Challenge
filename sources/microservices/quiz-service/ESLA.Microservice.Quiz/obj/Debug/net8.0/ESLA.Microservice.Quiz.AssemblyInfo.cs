@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESLA.Microservice.Quiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98906de6353e6aff86489a0a467131686e8650a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5d89329c40e408a57d5122016eac2c0b71a0176")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESLA.Microservice.Quiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESLA.Microservice.Quiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

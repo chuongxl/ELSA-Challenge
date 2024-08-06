@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NtYaK1tsR4xBjbIaKivqfK74RnRTsVHVxt8IBlamp6A=",
+  "Source": "ESLA.Microservice.Quiz",
+  "BasePath": "_content/ESLA.Microservice.Quiz",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
