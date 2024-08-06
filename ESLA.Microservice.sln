@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sources", "sources", "{6985BE6A-7342-4195-B83E-97EF2B0F06E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservices", "microservices", "{8DD3010C-9581-4AED-8705-C150A871C61F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "quiz-service", "quiz-service", "{14CC98F7-306E-4683-BFCA-05FC3777AF48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESLA.Microservice.Quiz", "sources\microservices\quiz-service\ESLA.Microservice.Quiz\ESLA.Microservice.Quiz.csproj", "{4A8987BE-90E3-412E-812B-BB88E0F1D65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8987BE-90E3-412E-812B-BB88E0F1D65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8987BE-90E3-412E-812B-BB88E0F1D65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8987BE-90E3-412E-812B-BB88E0F1D65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8987BE-90E3-412E-812B-BB88E0F1D65A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8DD3010C-9581-4AED-8705-C150A871C61F} = {6985BE6A-7342-4195-B83E-97EF2B0F06E8}
+		{14CC98F7-306E-4683-BFCA-05FC3777AF48} = {8DD3010C-9581-4AED-8705-C150A871C61F}
+		{4A8987BE-90E3-412E-812B-BB88E0F1D65A} = {14CC98F7-306E-4683-BFCA-05FC3777AF48}
+	EndGlobalSection
+EndGlobal

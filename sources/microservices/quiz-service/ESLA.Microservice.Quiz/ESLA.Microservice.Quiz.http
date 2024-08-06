@@ -1,0 +1,6 @@
+@ESLA.Microservice.Quiz_HostAddress = http://localhost:5038
+
+GET {{ESLA.Microservice.Quiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
